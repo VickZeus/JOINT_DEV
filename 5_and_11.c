@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+bhenchod
 int main()
 {
 	int num;
