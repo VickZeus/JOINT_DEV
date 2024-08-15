@@ -1,5 +1,6 @@
 #include <stdio.h>
 bhenchod
+madarchod
 int main()
 {
 	int num;
